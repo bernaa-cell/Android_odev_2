@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dört Mevsim</string>
+
+    <string name="ad_soyad">Ad Soyad</string>
+    <string name="eposta">E-posta Adresi</string>
+    <string name="yas">Yaş</string>
+    <string name="kayit_ol">Kayıt Ol</string>
+
+    <string name="kullanici_adi">Kullanıcı Adı</string>
+    <string name="sifre">Şifre</string>
+    <string name="giris_yap">Giriş Yap</string>
+    <string name="sifremi_unuttum">ŞİFREMİ UNUTTUM?</string>
+
+    <string name="ilkbahar">İlkbahar</string>
+    <string name="yaz">Yaz</string>
+    <string name="sonbahar">Sonbahar</string>
+    <string name="kis">Kış</string>
+</resources>

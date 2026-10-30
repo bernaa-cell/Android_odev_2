@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="arka_plan">#F7F8FA</color>
+    <color name="kart_rengi">#FFFFFF</color>
+
+    <color name="kayit_buton">#008577</color>
+    <color name="giris_buton">#1976D2</color>
+
+    <color name="yazi_rengi">#222222</color>
+    <color name="ipucu_rengi">#808080</color>
+    <color name="link_rengi">#1976D2</color>
+</resources>
